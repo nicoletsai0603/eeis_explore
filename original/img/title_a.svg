@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="122.61" height="81.74" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 122.61 81.74">
+  <defs>
+    <linearGradient id="uuid-75834cdf-0247-46e3-b30d-8d5335d648a5" data-name="未命名漸層 8" x1="61.31" y1="-10.18" x2="61.31" y2="96.47" gradientUnits="userSpaceOnUse">
+      <stop offset=".14" stop-color="#8cc63f"/>
+      <stop offset="1" stop-color="#94d968"/>
+    </linearGradient>
+    <linearGradient id="uuid-19a17a26-6b5b-407e-913e-3a21d7d2f055" data-name="未命名漸層 24" x1="119.5" y1="18.28" x2="38.19" y2="99.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#08e600"/>
+      <stop offset=".01" stop-color="#07e300"/>
+      <stop offset=".17" stop-color="#05a700"/>
+      <stop offset=".32" stop-color="#047400"/>
+      <stop offset=".47" stop-color="#024a00"/>
+      <stop offset=".62" stop-color="#012a00"/>
+      <stop offset=".76" stop-color="#001200"/>
+      <stop offset=".89" stop-color="#000400"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <g style="isolation: isolate;">
+    <g id="uuid-bc2e318e-a389-4510-adc9-6e861e7268ee" data-name="圖層 2">
+      <g id="uuid-a786c252-4f5a-47f8-8aac-e98e9e5ee56b" data-name="圖層 6">
+        <g id="uuid-36848817-0718-447f-97cd-c14633c4904c" data-name="title_a">
+          <path d="m81.74,40.87h0C81.74,18.3,63.44,0,40.87,0H0v40.87c0,22.57,18.3,40.87,40.87,40.87h81.74c-22.57,0-40.87-18.3-40.87-40.87Z" style="fill: url(#uuid-75834cdf-0247-46e3-b30d-8d5335d648a5);"/>
+          <path d="m81.74,40.87h0c0-9.11-2.98-17.52-8.02-24.32-27.1,8.37-49.98,26.33-64.7,49.91,7.49,9.31,18.97,15.28,31.86,15.28h81.74c-22.57,0-40.87-18.3-40.87-40.87Z" style="fill: url(#uuid-19a17a26-6b5b-407e-913e-3a21d7d2f055); mix-blend-mode: screen;"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

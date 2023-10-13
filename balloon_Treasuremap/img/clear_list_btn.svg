@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-55c5e4b5-199c-4bbe-8e5d-e4c6629c0f63" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" width="277.48" height="64.42" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 277.48 64.42">
+  <defs>
+    <linearGradient id="uuid-a81513e0-4048-4030-9850-d9205417321c" data-name="未命名漸層 69" x1="138.03" y1="57.34" x2="138.03" y2="1.42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f5745b"/>
+      <stop offset=".12" stop-color="#f38766"/>
+      <stop offset=".33" stop-color="#f2a176"/>
+      <stop offset=".55" stop-color="#f0b481"/>
+      <stop offset=".77" stop-color="#f0c088"/>
+      <stop offset="1" stop-color="#f0c48b"/>
+    </linearGradient>
+  </defs>
+  <g id="uuid-9a52e0dd-5e0a-4cdc-b27a-5f70a415ee92" data-name="第一cut">
+    <g id="uuid-29582060-bbbe-4aa2-8bf6-da9520c1465c" data-name="clear_list_btn">
+      <rect x="4.25" y="8.49" width="273.24" height="55.92" rx="27.96" ry="27.96" style="fill: #b3b3b3;"/>
+      <rect x="1.42" y="1.42" width="273.24" height="55.92" rx="27.96" ry="27.96" style="fill: url(#uuid-a81513e0-4048-4030-9850-d9205417321c); stroke: #fff; stroke-miterlimit: 10; stroke-width: 2.83px;"/>
+    </g>
+  </g>
+</svg>

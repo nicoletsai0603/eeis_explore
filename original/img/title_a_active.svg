@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="122.61" height="81.74" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 122.61 81.74">
+  <defs>
+    <style>
+      .uuid-081ba31e-046a-48d8-9281-2632df95cdc8 {
+        isolation: isolate;
+      }
+
+      .uuid-166a9391-7666-4064-8c8f-81f32a02f045 {
+        fill: url(#uuid-906f4968-686b-4f8b-9f36-f94d890493ff);
+      }
+
+      .uuid-a1a998e5-bff4-4cce-ab10-8f83dfad672e {
+        fill: url(#uuid-e2e59415-ab61-42ac-824c-86331336b819);
+        mix-blend-mode: screen;
+      }
+    </style>
+    <linearGradient id="uuid-906f4968-686b-4f8b-9f36-f94d890493ff" data-name="未命名漸層 74" x1="61.31" y1="-10.18" x2="61.31" y2="96.47" gradientUnits="userSpaceOnUse">
+      <stop offset=".14" stop-color="#ebc831"/>
+      <stop offset="1" stop-color="#fae900"/>
+    </linearGradient>
+    <linearGradient id="uuid-e2e59415-ab61-42ac-824c-86331336b819" data-name="未命名漸層 114" x1="119.5" y1="18.28" x2="38.19" y2="99.6" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e66b00"/>
+      <stop offset=".01" stop-color="#e36900"/>
+      <stop offset=".17" stop-color="#a74e00"/>
+      <stop offset=".32" stop-color="#743600"/>
+      <stop offset=".47" stop-color="#4a2200"/>
+      <stop offset=".62" stop-color="#2a1300"/>
+      <stop offset=".76" stop-color="#120800"/>
+      <stop offset=".89" stop-color="#040200"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <g class="uuid-081ba31e-046a-48d8-9281-2632df95cdc8">
+    <g id="uuid-0351d067-43e9-4eb4-935e-fca74ff49091" data-name="圖層 2">
+      <g id="uuid-5a880de8-b491-4b41-a08a-def0b61d479f" data-name="圖層 6">
+        <g id="uuid-d0d7ece1-a57a-4d43-9c19-f3ebaaad3a42" data-name="title_a_active">
+          <path class="uuid-166a9391-7666-4064-8c8f-81f32a02f045" d="m81.74,40.87h0C81.74,18.3,63.44,0,40.87,0H0v40.87c0,22.57,18.3,40.87,40.87,40.87h81.74c-22.57,0-40.87-18.3-40.87-40.87Z"/>
+          <path class="uuid-a1a998e5-bff4-4cce-ab10-8f83dfad672e" d="m81.74,40.87h0c0-9.11-2.98-17.52-8.02-24.32-27.1,8.37-49.98,26.33-64.7,49.91,7.49,9.31,18.97,15.28,31.86,15.28h81.74c-22.57,0-40.87-18.3-40.87-40.87Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-8804c6e3-9b4a-43ef-ae8c-0089a46c79c3" data-name="圖層 2" xmlns="http://www.w3.org/2000/svg" width="352.89" height="41.55" viewBox="0 0 352.89 41.55">
+  <g id="uuid-4f72ee9a-1bef-4ab7-a4c0-04c78c3ea467" data-name="第一cut">
+    <g id="uuid-15d8d5f6-b163-4c10-a50a-f7b03993e50d" data-name="map_Resultslist_btn">
+      <g>
+        <polygon points="352.69 41.35 3.93 41.35 .2 37.62 348.97 37.62 352.69 41.35" style="fill: #fba53b; stroke: #736c66; stroke-linecap: round; stroke-linejoin: round; stroke-width: .4px;"/>
+        <rect x=".2" y=".2" width="348.77" height="37.42" style="fill: #fff; stroke: #736c66; stroke-linecap: round; stroke-linejoin: round; stroke-width: .4px;"/>
+      </g>
+      <polygon points="352.69 3.93 352.69 41.35 348.97 37.62 348.97 .2 352.69 3.93" style="fill: #fba53b; stroke: #000; stroke-linecap: round; stroke-linejoin: round; stroke-width: .4px;"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "county01",
+    "county": "基隆市"
+  },
+  {
+    "id": "county02",
+    "county": "臺北市"
+  },
+  {
+    "id": "county03",
+    "county": "新北市"
+  },
+  {
+    "id": "county04",
+    "county": "桃園縣"
+  },
+  {
+    "id": "county05",
+    "county": "新竹市"
+  },
+  {
+    "id": "county06",
+    "county": "新竹縣"
+  },
+  {
+    "id": "county07",
+    "county": "苗栗縣"
+  },
+  {
+    "id": "county08",
+    "county": "臺中市"
+  },
+  {
+    "id": "county09",
+    "county": "彰化縣"
+  },
+  {
+    "id": "county10",
+    "county": "南投縣"
+  },
+  {
+    "id": "county11",
+    "county": "雲林縣"
+  },
+  {
+    "id": "county12",
+    "county": "嘉義市"
+  },
+  {
+    "id": "county13",
+    "county": "嘉義縣"
+  },
+  {
+    "id": "county14",
+    "county": "臺南市"
+  },
+  {
+    "id": "county15",
+    "county": "高雄市"
+  },
+  {
+    "id": "county16",
+    "county": "屏東縣"
+  },
+  {
+    "id": "county17",
+    "county": "臺東縣"
+  },
+  {
+    "id": "county18",
+    "county": "花蓮縣"
+  },
+  {
+    "id": "county19",
+    "county": "宜蘭縣"
+  },
+  {
+    "id": "county20",
+    "county": "澎湖縣"
+  },
+  {
+    "id": "county21",
+    "county": "金門縣"
+  },
+  {
+    "id": "county22",
+    "county": "連江縣"
+  }
+]

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="phone" transform="translate(0.183 -15)">
+    <path id="路径_8985" data-name="路径 8985" d="M25,0A25,25,0,1,1,0,25,25,25,0,0,1,25,0Z" transform="translate(-0.183 15)" opacity="0.41"/>
+    <path id="路径_171" data-name="路径 171" d="M22,11a1.666,1.666,0,0,0-1.183.483L7.486,24.806a1.673,1.673,0,1,0,2.366,2.366L22,15.011,34.14,27.172a1.673,1.673,0,0,0,2.366-2.366L23.179,11.479A1.666,1.666,0,0,0,22,11Z" transform="translate(2.821 21.004)" fill="#fff"/>
+  </g>
+</svg>

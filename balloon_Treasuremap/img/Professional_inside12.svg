@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="389.4" height="391.2" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 389.4 391.2">
+  <defs>
+    <clipPath id="clippath">
+      <path d="m50.2,304.7v-137.5c0-69.1,56.5-125.6,125.6-125.6h56.1s125.6,0,125.6,0v137.6c0,69.1-56.5,125.6-125.6,125.6l-56.1-.1H50.2Z" style="fill: none;"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect x="-268.31" y="-13.25" width="900" height="400" transform="translate(363.38 373.5) rotate(180)" style="fill: none;"/>
+    </clipPath>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_144" data-name="鍊踑臇 蜸馯鳺艜 144" x1="208.31" y1="264.38" x2="208.31" y2="-13.25" gradientTransform="translate(390) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c2fff7"/>
+      <stop offset=".13" stop-color="#bdfdf6"/>
+      <stop offset=".26" stop-color="#b0faf5"/>
+      <stop offset=".39" stop-color="#9bf5f3"/>
+      <stop offset=".48" stop-color="#8af1f2"/>
+      <stop offset=".64" stop-color="#7ee7f4"/>
+      <stop offset=".91" stop-color="#5fcffc"/>
+      <stop offset="1" stop-color="#54c7ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient" x1="208.25" y1="207.92" x2="208.25" y2="-13.25" gradientTransform="translate(389.83) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".04" stop-color="#fff"/>
+      <stop offset=".42" stop-color="#fff"/>
+      <stop offset=".99" stop-color="aqua"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-217.57" y1="127.89" x2="658.25" y2="127.89" gradientTransform="translate(389.83) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="-241.75" y1="114.89" x2="257.79" y2="114.89" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" x1="-241.75" y1="27.66" x2="259.4" y2="27.66" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="174.92" y1="165.32" x2="658.25" y2="165.32" gradientTransform="translate(389.83) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".99" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="174.92" y1="180.32" x2="658.25" y2="180.32" xlink:href="#linear-gradient-5"/>
+    <linearGradient id="linear-gradient-7" x1="252.32" y1="32.09" x2="658.25" y2="32.09" xlink:href="#linear-gradient-5"/>
+    <linearGradient id="linear-gradient-8" x1="181.66" y1="108.85" x2="181.66" y2="41.27" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="aqua"/>
+      <stop offset=".04" stop-color="#0cffff"/>
+      <stop offset=".25" stop-color="#54ffff"/>
+      <stop offset=".45" stop-color="#91ffff"/>
+      <stop offset=".63" stop-color="#c0ffff"/>
+      <stop offset=".78" stop-color="#e2ffff"/>
+      <stop offset=".91" stop-color="#f7ffff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-9" x1="362.67" y1="163.23" x2="362.67" y2="114.49" xlink:href="#linear-gradient-8"/>
+    <radialGradient id="_鍊踑臇_蜸馯鳺艜_207" data-name="鍊踑臇 蜸馯鳺艜 207" cx="196.19" cy="24142.18" fx="196.19" fy="24142.18" r="665" gradientTransform="translate(390 -5910.7) rotate(-180) scale(1 -.26)" gradientUnits="userSpaceOnUse">
+      <stop offset=".31" stop-color="#46e7c4"/>
+      <stop offset=".62" stop-color="#4dbbdc"/>
+      <stop offset=".86" stop-color="#529fec"/>
+      <stop offset="1" stop-color="#5495f2"/>
+    </radialGradient>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_185" data-name="鍊踑臇 蜸馯鳺艜 185" x1="-129.86" y1="354.35" x2="658.31" y2="354.35" gradientTransform="translate(390) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a2c2ff"/>
+      <stop offset=".29" stop-color="#c0d6ff"/>
+      <stop offset=".76" stop-color="#edf3ff"/>
+      <stop offset=".99" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_185-2" data-name="鍊踑臇 蜸馯鳺艜 185" x1="145.47" y1="371.22" y2="371.22" xlink:href="#_鍊踑臇_蜸馯鳺艜_185"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_191" data-name="鍊踑臇 蜸馯鳺艜 191" x1="53.49" y1="309.1" x2="53.49" y2="264.38" gradientTransform="translate(390) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d1e8ff"/>
+      <stop offset=".03" stop-color="#d1e8ff"/>
+      <stop offset=".99" stop-color="#e3ecff"/>
+    </linearGradient>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_191-2" data-name="鍊踑臇 蜸馯鳺艜 191" x1="472.18" y1="315.17" x2="472.18" xlink:href="#_鍊踑臇_蜸馯鳺艜_191"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_191-3" data-name="鍊踑臇 蜸馯鳺艜 191" x1="330.28" y1="286.37" x2="330.28" y2="281.81" xlink:href="#_鍊踑臇_蜸馯鳺艜_191"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_191-4" data-name="鍊踑臇 蜸馯鳺艜 191" x1="-12.71" y1="318.22" x2="-12.71" y2="306.37" xlink:href="#_鍊踑臇_蜸馯鳺艜_191"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_191-5" data-name="鍊踑臇 蜸馯鳺艜 191" x1="100.23" y1="311.78" x2="100.23" y2="306.06" xlink:href="#_鍊踑臇_蜸馯鳺艜_191"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_191-6" data-name="鍊踑臇 蜸馯鳺艜 191" x1="-241.69" y1="268.65" x2="658.31" y2="268.65" xlink:href="#_鍊踑臇_蜸馯鳺艜_191"/>
+    <radialGradient id="_鍊踑臇_蜸馯鳺艜_230" data-name="鍊踑臇 蜸馯鳺艜 230" cx="179.77" cy="302.85" fx="179.77" fy="302.85" r="298.39" gradientTransform="translate(390) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#72bdb3"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_254" data-name="鍊踑臇 蜸馯鳺艜 254" x1="-204.68" y1="305.22" x2="204.92" y2="305.22" gradientTransform="translate(390) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".99" stop-color="#72bdb3"/>
+    </linearGradient>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_254-2" data-name="鍊踑臇 蜸馯鳺艜 254" x1="157.37" y1="277.31" x2="404.74" y2="277.31" xlink:href="#_鍊踑臇_蜸馯鳺艜_254"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_229" data-name="鍊踑臇 蜸馯鳺艜 229" x1="237.55" y1="356.24" x2="237.55" y2="290.39" gradientTransform="translate(390) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#72bdb3"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-10" x1="212.38" y1="372.73" x2="655.17" y2="372.73" gradientUnits="userSpaceOnUse">
+      <stop offset=".06" stop-color="#fff"/>
+      <stop offset=".72" stop-color="#408f99"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-11" x1="229.52" y1="365.69" x2="463.04" y2="356.78" gradientTransform="translate(-17.53 -15.33) rotate(2.02) scale(1.04 .96) skewX(-.42)" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="linear-gradient-12" x1="182.16" y1="322.22" x2="331.86" y2="322.22" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="linear-gradient-13" x1="125.75" y1="307.55" x2="250.81" y2="307.55" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_351" data-name="鍊踑臇 蜸馯鳺艜 351" x1="37.33" y1="321.29" x2="95.14" y2="321.29" gradientTransform="translate(390) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".99" stop-color="#d9edea"/>
+    </linearGradient>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_229-2" data-name="鍊踑臇 蜸馯鳺艜 229" x1="140.02" y1="307.1" x2="140.02" y2="305.48" xlink:href="#_鍊踑臇_蜸馯鳺艜_229"/>
+    <linearGradient id="linear-gradient-14" x1="248.91" y1="1745.64" x2="248.91" y2="1659.23" gradientTransform="translate(0 1341.57) scale(1 -.59)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a6a6a6"/>
+      <stop offset=".98" stop-color="#802dff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-15" x1="-1678.53" y1="781.16" x2="-1678.53" y2="749.74" gradientTransform="translate(24.84 1432.02) rotate(62.57) scale(.64 -.93) skewX(24.07)" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-16" x1="-1678.53" y1="780.3" x2="-1678.53" y2="749.74" gradientTransform="translate(24.84 1432.02) rotate(62.57) scale(.64 -.93) skewX(24.07)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#1400c5"/>
+      <stop offset=".99" stop-color="#2c00f7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-17" x1="863.92" y1="-1352.19" x2="863.92" y2="-1388.45" gradientTransform="translate(34.98 1322.93) rotate(-153.65) scale(.86 -.69) skewX(23.49)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#661dff"/>
+      <stop offset=".98" stop-color="#5000e7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-18" x1="863.47" y1="-1352.19" x2="863.47" y2="-1388.45" gradientTransform="translate(34.98 1322.93) rotate(-153.65) scale(.86 -.69) skewX(23.49)" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-19" x1="306.14" y1="1626.46" x2="306.14" y2="1615.49" gradientTransform="translate(-60.61 1317.55) rotate(.06) scale(1 -.59) skewX(.07)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#5000e7"/>
+      <stop offset=".99" stop-color="#661dff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-20" x1="311.69" y1="1623.84" x2="311.69" y2="1614.96" gradientTransform="translate(-60.61 1317.55) rotate(.06) scale(1 -.59) skewX(.07)" xlink:href="#linear-gradient-16"/>
+    <linearGradient id="linear-gradient-21" x1="732.52" y1="1685.66" x2="732.52" y2="1652.18" gradientTransform="translate(7.27 1421.87) rotate(-9.91) scale(.97 -.61) skewX(-10.5)" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-22" x1="732.47" y1="1685.66" x2="732.47" y2="1652.18" gradientTransform="translate(7.27 1421.87) rotate(-9.91) scale(.97 -.61) skewX(-10.5)" xlink:href="#linear-gradient-16"/>
+    <linearGradient id="linear-gradient-23" x1="329.86" y1="1722.33" x2="329.86" y2="1590.11" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-24" x1="-1554.76" y1="149.06" x2="-1554.76" y2="110.31" gradientTransform="translate(-35.8 1285.41) rotate(106.09) scale(.61 -.97) skewX(-16.22)" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-25" x1="-1554.75" y1="147.71" x2="-1554.75" y2="110.31" gradientTransform="translate(-35.8 1285.41) rotate(106.09) scale(.61 -.97) skewX(-16.22)" xlink:href="#linear-gradient-16"/>
+    <linearGradient id="linear-gradient-26" x1="88.36" y1="1569.47" x2="88.36" y2="1520.83" gradientTransform="translate(-42.07 1272.37) rotate(6.22) scale(.99 -.6) skewX(6.71)" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-27" x1="89.48" y1="1565.77" x2="89.48" y2="1520.83" gradientTransform="translate(-42.07 1272.37) rotate(6.22) scale(.99 -.6) skewX(6.71)" xlink:href="#linear-gradient-16"/>
+    <linearGradient id="linear-gradient-28" x1="250.19" y1="306.06" x2="250.19" y2="382.45" gradientUnits="userSpaceOnUse">
+      <stop offset=".06" stop-color="#fff"/>
+      <stop offset=".72" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-29" x1="345.46" y1="319.89" x2="345.46" y2="425.57" xlink:href="#linear-gradient-28"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133" data-name="鍊踑臇 蜸馯鳺艜 133" x1="249.16" y1="306.06" x2="249.16" y2="238.52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".98" stop-color="#e6e3f1"/>
+    </linearGradient>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-2" data-name="鍊踑臇 蜸馯鳺艜 133" x1="-316.13" y1="360.84" x2="-316.13" y2="332.21" gradientTransform="translate(24.84 -151.91) rotate(-72.89)" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_106" data-name="鍊踑臇 蜸馯鳺艜 106" x1="-316.13" y1="359.9" x2="-316.13" y2="332.21" gradientTransform="translate(24.84 -151.91) rotate(-72.89)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#7c83a3"/>
+      <stop offset=".99" stop-color="#aeb3ce"/>
+    </linearGradient>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_139" data-name="鍊踑臇 蜸馯鳺艜 139" x1="-45.31" y1="-268.64" x2="-45.31" y2="-297.27" gradientTransform="translate(34.98 32.64) rotate(140.13)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d6d4ef"/>
+      <stop offset=".98" stop-color="#afa2c7"/>
+    </linearGradient>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-3" data-name="鍊踑臇 蜸馯鳺艜 133" x1="-45.3" y1="-269.59" x2="-45.3" y2="-297.27" gradientTransform="translate(34.98 32.64) rotate(140.13)" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_140" data-name="鍊踑臇 蜸馯鳺艜 140" x1="308.44" y1="203.85" x2="308.44" y2="194.91" gradientTransform="translate(-60.61 40.93) rotate(-.1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#afa2c7"/>
+      <stop offset=".99" stop-color="#d6d4ef"/>
+    </linearGradient>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_106-2" data-name="鍊踑臇 蜸馯鳺艜 106" x1="314.87" y1="202.07" x2="314.87" y2="194.5" gradientTransform="translate(-60.61 40.93) rotate(-.1)" xlink:href="#_鍊踑臇_蜸馯鳺艜_106"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-4" data-name="鍊踑臇 蜸馯鳺艜 133" x1="330.96" y1="317.45" x2="330.96" y2="288.82" gradientTransform="translate(7.27 -134.98) rotate(16.42)" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_106-3" data-name="鍊踑臇 蜸馯鳺艜 106" x1="330.96" y1="316.51" x2="330.96" y2="288.82" gradientTransform="translate(7.27 -134.98) rotate(16.42)" xlink:href="#_鍊踑臇_蜸馯鳺艜_106"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-5" data-name="鍊踑臇 蜸馯鳺艜 133" x1="329.52" y1="319.89" x2="329.52" y2="216.52" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-6" data-name="鍊踑臇 蜸馯鳺艜 133" x1="-196.02" y1="381.76" x2="-196.02" y2="344.08" gradientTransform="translate(-35.8 95.84) rotate(-99.71)" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_106-4" data-name="鍊踑臇 蜸馯鳺艜 106" x1="-196.01" y1="380.51" x2="-196.01" y2="344.08" gradientTransform="translate(-35.8 95.84) rotate(-99.71)" xlink:href="#_鍊踑臇_蜸馯鳺艜_106"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_139-2" data-name="鍊踑臇 蜸馯鳺艜 139" x1="-157.42" y1="-202.97" x2="-157.42" y2="-240.65" gradientTransform="translate(56.36 254.79) rotate(113.32)" xlink:href="#_鍊踑臇_蜸馯鳺艜_139"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-7" data-name="鍊踑臇 蜸馯鳺艜 133" x1="-157.42" y1="-204.22" x2="-157.42" y2="-240.65" gradientTransform="translate(56.36 254.79) rotate(113.32)" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_140-2" data-name="鍊踑臇 蜸馯鳺艜 140" x1="358.12" y1="211.76" x2="358.12" y2="200.01" gradientTransform="translate(-29.13 11.57) rotate(.11)" xlink:href="#_鍊踑臇_蜸馯鳺艜_140"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_106-5" data-name="鍊踑臇 蜸馯鳺艜 106" x1="366.57" y1="209.43" x2="366.57" y2="199.46" gradientTransform="translate(-29.13 11.57) rotate(.11)" xlink:href="#_鍊踑臇_蜸馯鳺艜_106"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-8" data-name="鍊踑臇 蜸馯鳺艜 133" x1="339.29" y1="204.08" x2="339.29" y2="166.41" gradientTransform="translate(-42.07 117.81) rotate(-10.41)" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_106-6" data-name="鍊踑臇 蜸馯鳺艜 106" x1="339.29" y1="202.84" x2="339.29" y2="166.41" gradientTransform="translate(-42.07 117.81) rotate(-10.41)" xlink:href="#_鍊踑臇_蜸馯鳺艜_106"/>
+    <radialGradient id="radial-gradient" cx="254.22" cy="352.09" fx="254.22" fy="352.09" r="125.57" gradientTransform="translate(-794.25 -259.04) scale(5.07 1.46)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8fbaff"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-30" x1="-288.76" y1="371.97" x2="154.02" y2="371.97" xlink:href="#linear-gradient-10"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_351-2" data-name="鍊踑臇 蜸馯鳺艜 351" x1="372.77" y1="332.84" x2="501.41" y2="332.84" xlink:href="#_鍊踑臇_蜸馯鳺艜_351"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_254-3" data-name="鍊踑臇 蜸馯鳺艜 254" x1="421.05" y1="351.89" x2="421.05" y2="332.2" xlink:href="#_鍊踑臇_蜸馯鳺艜_254"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_351-3" data-name="鍊踑臇 蜸馯鳺艜 351" x1="69.69" y1="349.58" x2="324.8" y2="349.58" xlink:href="#_鍊踑臇_蜸馯鳺艜_351"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_368" data-name="鍊踑臇 蜸馯鳺艜 368" x1="90.87" y1="357.21" x2="200.96" y2="357.21" gradientTransform="translate(390) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d9edea"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-31" x1="148.42" y1="1675.73" x2="148.42" y2="1398.35" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-32" x1="148.42" y1="347.53" x2="148.42" y2="596.1" xlink:href="#linear-gradient-28"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-9" data-name="鍊踑臇 蜸馯鳺艜 133" x1="-278.06" y1="-39.96" x2="-278.06" y2="-93.37" gradientTransform="translate(47.24 -72.5) rotate(-89.17)" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_106-7" data-name="鍊踑臇 蜸馯鳺艜 106" x1="-278.05" y1="-41.73" x2="-278.05" y2="-93.37" gradientTransform="translate(47.24 -72.5) rotate(-89.17)" xlink:href="#_鍊踑臇_蜸馯鳺艜_106"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-10" data-name="鍊踑臇 蜸馯鳺艜 133" x1="148.4" y1="347.53" x2="148.4" y2="129.97" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-11" data-name="鍊踑臇 蜸馯鳺艜 133" x1="-237.18" y1="216.59" x2="-237.18" y2="115.04" gradientTransform="translate(47.24 -72.5) rotate(-89.17)" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_106-8" data-name="鍊踑臇 蜸馯鳺艜 106" x1="-237.18" y1="213.23" x2="-237.18" y2="115.04" gradientTransform="translate(47.24 -72.5) rotate(-89.17)" xlink:href="#_鍊踑臇_蜸馯鳺艜_106"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_139-3" data-name="鍊踑臇 蜸馯鳺艜 139" x1="-41.2" y1="43.61" x2="-41.2" y2="-57.94" gradientTransform="translate(109.08 102.19) rotate(123.85)" xlink:href="#_鍊踑臇_蜸馯鳺艜_139"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-12" data-name="鍊踑臇 蜸馯鳺艜 133" x1="-41.19" y1="40.25" x2="-41.19" y2="-57.94" gradientTransform="translate(109.08 102.19) rotate(123.85)" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_140-3" data-name="鍊踑臇 蜸馯鳺艜 140" x1="111.36" y1="200.4" x2="111.36" y2="168.72" gradientTransform="translate(34.98 -50.51) rotate(.14)" xlink:href="#_鍊踑臇_蜸馯鳺艜_140"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_106-9" data-name="鍊踑臇 蜸馯鳺艜 106" x1="134.15" y1="194.1" x2="134.15" y2="167.25" gradientTransform="translate(34.98 -50.51) rotate(.14)" xlink:href="#_鍊踑臇_蜸馯鳺艜_106"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_133-13" data-name="鍊踑臇 蜸馯鳺艜 133" x1="90.83" y1="282.22" x2="90.83" y2="180.68" gradientTransform="translate(34.98 -50.51) rotate(.14)" xlink:href="#_鍊踑臇_蜸馯鳺艜_133"/>
+    <linearGradient id="_鍊踑臇_蜸馯鳺艜_106-10" data-name="鍊踑臇 蜸馯鳺艜 106" x1="90.83" y1="278.87" x2="90.83" y2="180.68" gradientTransform="translate(34.98 -50.51) rotate(.14)" xlink:href="#_鍊踑臇_蜸馯鳺艜_106"/>
+  </defs>
+  <g style="isolation: isolate;">
+    <g id="_圖層_2" data-name="圖層 2">
+      <g id="_圖層_1-2" data-name="圖層 1">
+        <g>
+          <path d="m186.9,0C96.4,0,23.1,68.1,23.1,152v187.9s202.5,0,202.5,0c90.5,0,163.8-68.1,163.8-152V0s-202.5,0-202.5,0Z" style="fill: #0aa07d;"/>
+          <path d="m23.1,335.2v4.6s202.5,0,202.5,0c90.5,0,163.8-68.1,163.8-152v-119.3c-64,86.1-185.5,215-366.3,266.7Z" style="isolation: isolate; opacity: .1;"/>
+          <path d="m186.9,0C96.4,0,23.1,68.1,23.1,152v74C150,58.7,331.9,13.9,389.4,3.6V0s-202.5,0-202.5,0Z" style="fill: #fff; isolation: isolate; opacity: .15;"/>
+          <rect x="0" y="116.2" width="25.1" height="275" style="fill: #0aa07d;"/>
+          <path id="SVGID" d="m50.2,304.7v-137.5c0-69.1,56.5-125.6,125.6-125.6h56.1s125.6,0,125.6,0v137.6c0,69.1-56.5,125.6-125.6,125.6l-56.1-.1H50.2Z" style="fill: #dcffd4;"/>
+          <g style="clip-path: url(#clippath);">
+            <g style="clip-path: url(#clippath-1);">
+              <rect x="-268.31" y="-13.25" width="900" height="277.63" style="fill: url(#_鍊踑臇_蜸馯鳺艜_144);"/>
+              <g style="opacity: .3;">
+                <polygon points="631.58 25.85 631.58 -13.25 -268.42 -13.25 -268.42 103.2 -100.47 117.35 206.1 126.44 534.65 158.46 330.02 152.21 -187.25 112.04 -268.42 109.01 -268.42 152.21 -128.13 160.55 40.12 179.5 195.22 181.58 455.64 191.24 557.38 203.37 631.58 207.92 631.58 202.99 424.37 186.75 181.58 170.4 -47.42 155.24 195.22 162.82 631.58 175.19 631.58 47.12 524.98 40.8 346.31 33.48 447.11 33.48 631.58 25.85" style="fill: url(#linear-gradient);"/>
+                <path d="m508,154.11c4.97.7-78.83-6.05-137.66-15.73-57.24-9.42-277.9-18.75-394.87-21.03-116.97-2.28-243.88-24.77-243.88-24.77v10.63s87.44,6.32,157.5,13.27c70.06,6.94,319.53,9.97,319.53,9.97l326.04,32.02,72.76,4.74s-117.89-11.71-99.41-9.09Z" style="fill: url(#linear-gradient-2); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .5;"/>
+                <polygon points="132.04 93.28 257.64 108.31 452.04 127.89 631.58 136.51 631.58 132.73 452.04 117.35 132.04 93.28" style="fill: url(#linear-gradient-3); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .5;"/>
+                <polygon points="130.43 29.66 337.53 33.48 447.11 33.48 631.58 25.85 631.58 21.85 474.77 21.85 130.43 29.66" style="fill: url(#linear-gradient-4); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .5;"/>
+                <polygon points="-126.7 158.46 -268.42 152.21 -87.77 165.09 9.72 176.07 88.58 178.43 -54.56 158.46 -126.7 158.46" style="fill: url(#linear-gradient-5); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .5;"/>
+                <polygon points="88.58 178.43 90.87 178.75 214.91 182.21 88.58 178.43" style="fill: url(#linear-gradient-6); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .5;"/>
+                <polygon points="17.76 27.66 -268.42 27.66 -268.42 33.48 -211.33 36.51 -20.13 29.94 137.51 29.79 17.76 27.66" style="fill: url(#linear-gradient-7); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .5;"/>
+                <polygon points="-268.25 41.27 -268.42 92.57 123.01 95.82 216.8 95.82 261.66 96.54 631.75 108.85 631.75 58.72 -268.25 41.27" style="fill: url(#linear-gradient-8); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .5;"/>
+                <polygon points="93.55 114.49 201.46 126.35 403.03 143.18 533.48 158.43 631.58 163.23 631.8 142.24 225.97 114.89 93.55 114.49" style="fill: url(#linear-gradient-9); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .5;"/>
+              </g>
+              <g>
+                <rect x="-268.31" y="264.38" width="900" height="122.37" style="fill: url(#_鍊踑臇_蜸馯鳺艜_207);"/>
+                <path d="m252.48,375.03c-156.39-10.61-193.56-42.32-279.85-50.66-86.29-8.34-240.94,7.46-240.94,7.46v9.09s116.17-10.36,249.83,3.79,276.24,42.03,357.28,42.03h181.06s-167.04-4.91-267.38-11.72Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_185); fill-rule: evenodd; mix-blend-mode: multiply;"/>
+                <path d="m4.01,364.8c-133.77-19.33-272.33-1.89-272.33-1.89v8.44s142.74-19.05,251.49-6.42c108.75,12.63,169.38,18.88,230.52,21.82h30.83s-132.38-6.32-240.51-21.95Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_185-2); fill-rule: evenodd; mix-blend-mode: multiply;"/>
+                <path d="m271.58,265.97c-3.69.66-7.6.92-11.24,1.99-1.12.33-2.54.6-3.59,1.03-1.11.46-1.97,1.27-3.16,1.68-2.09.71-4.52.97-6.7,1.22-4.4.49-9.15.52-13.59.76-4.6.25-9.23.07-13.83.05-5.62-.02-11.13.75-16.73.82-8.17.1-16.35-.04-24.51-.04-1.63,0-3.4.21-5.01.04-1.38-.15-2.56-.77-3.97-.83-2.47-.11-5.21-.16-7.64.2-2.53.37-4.84.38-7.38.54-1.7.12-3.23.77-4.96.83-2.04.08-4.1-.14-6.15-.06-5.87.22-12.14,2.22-17.94,3.16-6.14.99-24.91-.51-31.93.47,4.36,1.61,20.73,1.65,24.46,1.68,3.83.03,7.5.7,11.29,1.19,1.15.15,4.29-.08,5.11,1.07.62.88-.75,3.58-1.45,4.44-1.54,1.88-4.14,2.24-6.37,2.52-2.34.28-4.56.7-6.93.7-2.03,0-3.84-.51-5.83-.73-4.54-.51-9.34-.07-13.92-.07-3.34.01-6.72-.19-10.05.06-1.73.13-7.48,1.09-9.39,1.09-26.24,0-38.94,3.01-38.84,4.16.14,1.7,34.63,4.34,38.46,4.74,3.69.38,9.02.85,15.34.75,5.32-.09,11.03-.99,16.35-1.54,2.85-.3,7.14-.83,10.03-.19,1.31.29,2.2.77,3.62.81,2.14.07,4.29-.16,6.42-.05,1.95.1,3.79.76,5.74.82,1.21.03,2.11-.11,3.18.53,1.29.77,1.86,2.28,3.07,3.07,1.8,1.16,5.46,1.63,7.55,1.7,2.32.08,4.4.77,6.77.75,2.33-.03,4.65-.01,6.98-.01,3.06,0,5.88.74,8.89.78,4.19.05,8.41.41,12.51,1.28,7.57,1.61,14.8,1.73,22.5,1.73,5.28,0,10.56-.06,15.84,0,1.8.03,2.67-.7,4.47-.74,3.08-.08,6.03-1.67,9.06-2.21,2.47-.44,4.9-1.01,7.32-1.53,2.07-.44,3.76-1.51,6.07-1.61,3.64-.17,7.02.73,10.6.81,11.31.26,22.83.37,34.07-.69,1.56-.15,7.78-1.06,3.18-2.58-2.14-.71-4.65-.77-6.87-1.27-3.94-.88-7.85-1.96-11.83-2.63-10.04-1.67-20.73-.66-30.51-3.66-3.94-1.21-7.97-2.15-12.1-2.1-4.14.04-8.07-.8-12.15-.76-4.71.05-9.42-.01-14.13.02-2.47.02-4.7-.68-7.16-.78-4.56-.19-19.38,1.12-17.09-7.42,6.09-1.7,12.92-1.7,19.19-1.63,4.34.05,8.6-.66,12.93-.82,4.37-.17,8.78.04,13.15.04h14.69c4.32,0,8.12.34,12.34,1.13,4.58.86,9.14,1.73,13.29,3.98,1.4.76,2.54,1.28,4.12,1.71,2.6.71,5.2.79,7.91,1.33,5.58,1.12,11.19,1.4,16.76,2.84,3.94,1.02,8.03,1.7,11.71,3.42,1.53.71,3.67,1.82,5.3,2.21,2.64.62,5.84-.08,8.57.02,2.2.09,4.51.91,6.59,1.64,2.5.89,5.3,1.06,7.98,1.33,6.56.66,13.13.74,19.67,1.42,3.96.42,8.06.85,12.05.99,2.72.09,5.43-.19,8.15.02,5.08.41,10.24,1.05,15.3,1.64,6.32.73,12.71,2.12,19.08,2.09,3.83-.03,7.43.06,11.19-.59,1.48-.26,2.95-.27,4.38-.55.86-.16,1.41-.54,2.39-.34-2.29-1.35-5.98-.28-7.89-2.14,4.28-.84,8.72-1.21,13.14-1.77,6.35-.82,12.6-2.33,18.98-3.03,2.41-.27,4.7-1.27,7.07-1.47,2.17-.19,4.27-.44,6.44-.66,1.97-.2,3.9.3,5.71-.6,1.08-.53,1.82-1.51,3.01-1.79,2.82-.66,6.49.42,9.21.98,2.76.57,5.56,1.03,8.29,1.72,1.56.4,2.91,1.05,4.48,1.16,1.12.08,2.28-.07,3.41-.02,1.67.06,3.2.58,4.87.75,1.58.15,10.05,1.76,9.85,4.41-1.78.25-4.46.83-5.94,1.85.37,1.59,3.78,1.51,5.08,1.88,2.33.66,4.62,1.15,6.98,1.72,4.58,1.11,9.23.72,13.93.77,3.19.03,6.46-.54,9.64-.84,2.99-.28,6.11-.68,9.04-1.27,2.82-.57,4.92.28,7.62.62.97.13,3.41.3,3.69-.61-3.6-1.21-7.41-1.79-10.98-3.12-1.25-.47-1.8-1.1-2.91-1.71-.96-.53-1.63-.42-2.7-.77-.4-1.59,5.94-4.77,6.71-5.13,6.45-2.96,14.57-3.01,21.57-3.17,9.58-.21,19.2.58,28.73,1.38,7.05.6,13.46,2.77,20.25,4.76.05-.01.1-.01.14-.02v-33.33h-341.96c-6,.57-12.27.53-18.15,1.59Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_191); fill-rule: evenodd; mix-blend-mode: multiply;"/>
+                <path d="m-268.31,264.38v50.79h.94c3.12-.02,5.52-1.2,8.46-2.24,6.51-2.31,12.77-2.72,19.64-1.97,6.82.74,13.01,2.86,19.78.98,3.34-.94,6.28-2.65,9.71-3.43,3.23-.73,6.5-.66,9.75-1.11,2.36-.34,4.63-.78,7.04-.63,2.65.15,5.18.74,7.86.81,3.28.09,6.51.33,9.75.93,6.3,1.16,12.54,2.84,18.99,2.89,4.26.03,8.53-.03,12.79-.03,6.29,0,12.5-.35,18.75-1.14,7.98-1,16.47-.21,24.28-2.26,2.61-.69,7.89-1.8,2.94-3.71-6.34-2.45-14.93-1.23-21.54-1.23-4.14,0-8.29.08-12.43.04-2.71-.02-5.3-.09-7.77-1.37-2.4-1.24-2.55-3.27-.53-5.12,4.41-4.03,12.08-3.41,17.52-3.4,7.65.02,14.93-.61,22.53-1.29,5.21-.47,9.65-2.05,14.69-3.3,2.94-.72,5.89-1.33,8.77-2.24,1.4-.45,3.65-.92,5.04-1.57,1.05-.49,1.59-1.46,2.57-2.06,3.01-1.85,8.11-2.12,11.43-2.33,4.32-.27,8.68-.39,12.97-1.02,2.51-.37,5.64-.6,8.03-1.54,2.26-.89,2.23-2.88,4.38-3.51,2.84-.82,7.23-1.52,10.19-.78,1.08.27,1.49.63,2.71.71,2.99.2,5.93-.39,8.89-.61,9.97-.73,20.12-.16,30.11-.16,8.49,0,16.99-.01,25.48,0,4.47,0,8.79.81,13.24.77,4.34-.04,8.45-.18,12.75-.77,7.83-1.08,15.66-.76,23.56-.76-3.11,2.75-.22,1.95,1.16.02.39-.54,1.01-1.6,1.16-2.26.26-1.13-.51-2.61.11-3.67.71-1.22,2.67-1.55,3.88-1.86.89-.22,1.78-.41,2.68-.57h-372.26Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_191-2); fill-rule: evenodd; mix-blend-mode: multiply;"/>
+                <path d="m90.41,284.32c-13.89-2.4-27.95-2.83-40.83-2.32-4.86.19-9.69.39-14.48.99-1.93.24-4.4.22-6.08.96.31.47,2.24.71,3.08.87,3.7.74,7.85.88,11.68,1.02,4.96.19,9.78.5,14.76.52,4.27.01,8.43-.5,12.68-.54,4.44-.04,9.16.16,13.45-.53,1.52-.24,5.56.26,5.74-.98Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_191-3); fill-rule: evenodd; mix-blend-mode: multiply;"/>
+                <path d="m387.89,307.96c2.79-.59,5.69-1.46,8.57-1.53,2.03-.05,4.13-.1,6.16,0,1.58.08,3.09.34,4.68.39,1.75.05,3.56.31,5.3.48,3.48.35,7.04.61,10.39,1.71,1.02.34,2.51,1.08,3.19,1.98,1.05,1.38.09,2.91-1.19,3.71-3.11,1.95-7.95,1.61-11.45,1.89-3.63.29-7.18.88-10.81,1.23-1.37.13-2.64.4-4.04.39-1.4-.01-2.8,0-4.2,0-4.19,0-8.71.35-12.7-1.22-1.49-.59-2.94-3.17-3.02-4.65-.14-2.45,2.19-3.04,4.17-3.52,1.02-.25,2.02-.51,3.03-.76.52-.13,1-.04,1.52-.17.58-.15.87-.31.38.08Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_191-4); fill-rule: evenodd; mix-blend-mode: multiply;"/>
+                <path d="m305.28,307.58c-2.53-.39-5.05-.59-7.57-.95-1.79-.25-3.51-.1-5.29-.17-.98-.04-1.9-.31-2.88-.38-1.23-.09-2.35.16-3.57.27-1.97.17-3.94.27-5.9.51-1.53.19-4.32.39-5.49,1.66-1.18,1.28,1.51,2.16,2.51,2.37,1.7.35,3.38.28,5.07.51,1.17.16,2.22.45,3.43.36,1.32-.1,2.63-.33,3.96-.43,1.7-.14,3.49-.17,5.17-.42,2.28-.34,4.52-1.05,6.78-1.4.81-.13,1.48-.14,2.28-.42.55-.2.98-.59,1.51-1.51Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_191-5); fill-rule: evenodd; mix-blend-mode: multiply;"/>
+                <path d="m-268.31,264.38v8.54l604.27-1.97s-239.84-2.47-299.9-2.3c-60.06.17-267,0-267,0,0,0,105.6-.73,178.25-1.74,69.6-.97,493.05-.08,528.42,0,1.63-.01,2.37,0,2.37,0,0,0-.82,0-2.37,0-4.28.04-14.69.3-33.91,1.74-26.53,1.99-105.87,2.3-105.87,2.3,0,0,47.51.51,118.24,1.52,70.74,1.01,177.48,0,177.48,0v-8.09H-268.31Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_191-6); fill-rule: evenodd; mix-blend-mode: multiply;"/>
+                <path d="m246.16,322.86c-120.25,1.23-173.43-21.85-245.43-25.14s-131.31-4.45-157.39-10.99c-26.08-6.54-54.57-4.93-54.57-4.93,0,0,36.38,3.03,88.85,11.37,52.47,8.34,115.03.76,183.7,15.92,68.67,15.16,229.18,17.43,328.9,12.84,99.72-4.58,241.47-9.65,241.47-9.65v-1.5s-76.31,1.71-133.91,4.29c-57.6,2.58-131.37,6.55-251.62,7.78Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_230); mix-blend-mode: screen;"/>
+                <path d="m306.79,358.09c1.38.34-82.23,1.82-86.97,0-4.74-1.82,75.03-2.92,86.97,0Z" style="fill: #fff;"/>
+                <path d="m282.54,348.32c2.07,1.03-28.23,1.52-35.43,0s31.26-2.08,35.43,0Z" style="fill: #fff;"/>
+                <path d="m284.69,324.05s-30.34-.24-68.22-1.38c0,0,47.26-1.85,68.22,1.38Z" style="fill: #fff;"/>
+                <path d="m211.76,356.54c2.29.84-20.85,1.79-26.03-.21-5.17-2,21.76-1.36,26.03.21Z" style="fill: #fff;"/>
+                <path d="m594.42,304.87c11.89.59-381.24,2.15-408.09.74-26.84-1.42,385.94-1.84,408.09-.74Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_254); mix-blend-mode: screen;"/>
+                <path d="m232.16,276.93c11.89.59-206.81,3.74-244.9.34-26.78-2.39,222.75-1.45,244.9-.34Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_254-2); mix-blend-mode: screen;"/>
+                <path d="m303.34,348.43c-.62,1.07-13.37,1.2-13.56,0s14.18-1.07,13.56,0Z" style="fill: #fff;"/>
+                <path d="m246.19,306.06c-.62,1.07-13.37,1.2-13.56,0-.19-1.2,14.18-1.07,13.56,0Z" style="fill: #fff;"/>
+                <path d="m315.33,289.49c-.62,1.07-13.37,1.2-13.56,0s14.18-1.07,13.56,0Z" style="fill: #fff; mix-blend-mode: soft-light;"/>
+                <path d="m205.03,322.14c-.39.76-8.33.85-8.45,0-.12-.85,8.84-.76,8.45,0Z" style="fill: #fff;"/>
+                <path d="m533.78,334.96c-18.14-2.91-108-4.55-97.86-7.9,10.14-3.35,137.29-5.07,137.29-5.07-133.04.4-149.43,1.16-149.43,4,0,4.65,64.61,8.56,64.61,10.58s-25.07,11.3-89.02,14.68c-63.95,3.38-236.4-1.89-242.08-4.35-5.68-2.46-1.2-7.89-3.73-9.92-2.53-2.02-12.12-1.52-65.1-5.05-52.98-3.54-67.27-15.66-67.78-17.43-.51-1.77,13.39-5.31-3.54-6.32-16.93-1.01-108.64,4.02-163.45,1.78-54.81-2.24-70.23-11.88-83.87-16.18-13.64-4.29-38.14-3.28-38.14-3.28v2.53s22.73,1.01,34.35,2.02c11.62,1.01,27.79,14.15,91.45,16.61,63.66,2.46,144.63-3.22,151.45-1.78,6.82,1.45-1.14,10.68,21.98,17.18,23.12,6.5,89.43,9.42,94.86,11.13s5.57,8.52,39.67,13.06c34.11,4.54,203.12,6.9,261.19,3.1,58.08-3.8,125.28-16.48,107.14-19.39Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_229); mix-blend-mode: screen;"/>
+              </g>
+              <g>
+                <g>
+                  <path d="m643.15,347.59c-2.18.19-8.92.77-19.21,1.66-.49.04-.98.09-1.47.14-6.7-.08-14.7,1.92-21.37,1.84-.68.06-1.36.12-2.05.18-.69.06-1.39.12-2.09.18-.7.06-1.41.12-2.13.18-8.06,2.54-16.06-1.46-24.5,2.12-.41.04-.83.07-1.25.11-2.94.25-5.95.51-9.01.78-.44.04-.88.08-1.31.11-15.98,2.42-31.98.42-48.35,4.18-.49.05-1,.09-1.5.13-4.03.35-8.11.7-12.23,1.06-.51.04-1.03.09-1.54.14-6.36,1.91-12.36-.09-17.21,1.49-.53.04-1.06.09-1.58.13-7.38.64-14.84,1.28-22.35,1.93-.54.05-1.07.09-1.61.13-10.61.22-21.61,2.22-32.31,2.81-.54.04-1.08.09-1.62.14-7.01.61-14,1.21-20.95,1.81-.53.05-1.07.09-1.6.14-12.13-.67-24.13,4.33-36.26,3.14-.51.04-1.03.09-1.54.13-7.7.67-15.27,1.32-22.65,1.96-.49.04-.98.09-1.47.13-12.2-.03-24.2,3.97-36.41,3.16-.44.03-.88.07-1.32.11-49.42,4.28-83.86,7.26-83.86,7.26v13s36.94-4.2,89.48-10.17c.44-.05.88-.1,1.33-.15,16.58-1.23,34.58-4.23,51.56-5.86.51-.06,1.02-.11,1.53-.17,2.03-.23,4.07-.46,6.11-.69.51-.06,1.02-.12,1.54-.17,14.84-.32,28.84-4.32,42.51-4.83.53-.06,1.07-.12,1.6-.18,6.41-.73,12.85-1.46,19.29-2.19.54-.06,1.07-.12,1.61-.18,23.82-2.93,48.82-4.93,73.14-8.32.51-.06,1.03-.12,1.54-.18,5.13-.58,10.2-1.16,15.21-1.73.5-.06,1-.11,1.49-.17,13.44-3.54,27.44-1.54,41.36-4.7.45-.05.89-.11,1.34-.16,3.57-.41,7.06-.8,10.49-1.19.43-.05.85-.1,1.27-.15,16.98-2.35,32.98-3.35,49.94-5.67.57-.07,1.14-.14,1.7-.2,6.62-.75,12.25-1.39,16.72-1.9v-1.3Z" style="fill: url(#linear-gradient-10); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .4;"/>
+                  <path d="m442.07,333.71h6.68s-9.89.88-25.69,2.29c-.69.06-1.38.12-2.09.19-13.2,1.14-26.2,3.14-39.53,3.52-.48.04-.97.09-1.45.13-.97.09-1.95.17-2.93.26-.49.04-.98.09-1.48.13-48.81,5.1-98.81,7.1-148.17,13.17-.63.07-1.26.12-1.87.18-12.34,1.1-19.82,1.76-19.82,1.76v-5.14s3.83-.27,10.51-.73c.48-.03.97-.07,1.48-.1,18.07-1.05,35.07-1.05,53.14-3.71.49-.03.98-.07,1.46-.1.98-.07,1.96-.14,2.95-.21.49-.03.99-.07,1.49-.1,33.02-2.93,66.02-3.93,98.73-6.89.49-.03.98-.07,1.46-.1.49-.03.97-.07,1.45-.1,13.38-2.83,26.38-.83,39.11-2.72.68-.05,1.35-.1,2.02-.15,13.94-.97,22.55-1.57,22.55-1.57Z" style="fill: url(#linear-gradient-11); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .4;"/>
+                  <path d="m327.18,319.89h4.68s-8.32.26-21.03.66c-.39.01-.77.02-1.17.04-31.89,1.74-62.89,1.74-95.16,2.97-.45.01-.89.03-1.34.04-4.43.14-8.54.27-12.23.38-.37.01-.73.02-1.09.03-4.07.32-7.07.32-10.89.34-.48.01-.94.03-1.37.04-3.46.11-5.42.17-5.42.17v-1.39c41.6-3.84,84.6-1.84,126.96-3.04.73,0,1.45-.02,2.15-.03,9.76-.13,15.91-.21,15.91-.21Z" style="fill: url(#linear-gradient-12); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .4;"/>
+                  <polygon points="247.51 306.06 250.81 306.06 125.75 309.38 125.75 305.72 247.51 306.06" style="fill: url(#linear-gradient-13); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .4;"/>
+                </g>
+                <path d="m335.72,319.22l16.95,1.91s-40.6-.55-47.69,0l25.01,2.23-35.14-1.58,13.77-2.57h27.09Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_351); mix-blend-mode: screen;"/>
+                <g>
+                  <path d="m253.86,305.48l5.51,1.24s-13.04.86-18.77,0l4-1.24h9.26Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_229-2); mix-blend-mode: screen;"/>
+                  <path d="m251.07,310.79s-3.62-.51-9.01,0c0,0,6.4,1.24,9.01,0Z" style="fill: #cfffff; fill-rule: evenodd;"/>
+                </g>
+                <g style="mix-blend-mode: screen;">
+                  <g>
+                    <g>
+                      <path d="m250.81,306.06h-3.3s.04,2.82.08,6.34c0,.39.02.79.01,1.2-.83,2.72.17,6.72.12,9.37,0,.63.02,1.18.02,1.65.01.93.02,1.49.02,1.49,0,0,0,.52.02,1.42-.02,3.79-1.02,7.79.01,11.45.07.44.11.88.14,1.33.02.45.03.9.03,1.35.8,3.65,2.8,7.65-1.2,11.65-1,1,0,4,3,4-1-1-1-3-1-4,2-3,4-6,1.48-10.06-.03-.44-.04-.86-.04-1.26.02-1.19.04-2.18.05-2.79,0-.4,0-.63,0-.63.51-3.26-1.49-7.26.15-10.28.03-.48.04-.97.05-1.46.02-.98.03-1.98.05-3,0-.51.02-1.01.07-1.51-.81-3.01.19-6.01.08-8.73,0-.44.02-.87.04-1.28.06-3.7.11-6.27.11-6.27Z" style="fill: url(#linear-gradient-14); fill-rule: evenodd;"/>
+                      <path d="m250.26,338.58c-2.49-4.26-3.49-8.26-2.49-12.26,0,4-2,9,.03,12.67.07.44.11.88.14,1.33.02.45.03.9.03,1.35,2.8,3.65-.2,8.65.8,13.65,1-5,5-8,1.43-13.31.01-.67.02-1.27.03-1.78.02-1.02.03-1.65.03-1.65Z" style="fill: #21008c; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                      <path d="m252.55,356.29c6.22-3.97,14.22-2.97,17.3-10.66.23-.33.47-.66.7-.99,2.15-2.97,4.07-5.94,4.07-5.94,0,0-.19-1.49-1.46-1.31-.12.02-.33.1-.62.23-2.05.94-7.86,4.59-11.11,6.96-.41.3-.76.57-1.03.83-1.64,4.92-8.64,5.92-9.47,10.78.35-.04.88-.05,1.61.11Z" style="fill: url(#linear-gradient-15); fill-rule: evenodd;"/>
+                      <path d="m252.55,356.29c2.22-4.97,7.22-5.97,9.12-10.88.24-.28.5-.56.79-.84,4.02-3.88,10.7-7.18,10.7-7.18l-.62.23c-2.05.94-7.86,4.59-11.11,6.96-.41.3-.76.57-1.03.83-1.64,4.92-8.64,5.92-9.47,10.78.35-.04.88-.05,1.61.11Z" style="fill: url(#linear-gradient-16); fill-rule: evenodd;"/>
+                      <path d="m252.1,359.16s-.32.43-.82,1.13c-.75,1.04-1.88,2.67-2.89,4.31-.34.55-.66,1.09-.92,1.63-1.7,2.09.3,4.09-1.1,6.02-.1.65-.11,1.37-.06,2.12.02.37.05.75.09,1.13.03.38.07.75.11,1.12,2.27,1.7-2.73,6.7.27,5.7,6-1,10-10,7.79-17.31-.08-.67-.12-1.34-.17-1.98-.05-.64-.1-1.26-.15-1.83s-.1-1.09-.14-1.53c-.11-.87-.32-1.4-.32-1.4,0,0-.35.7-1.66.9Z" style="fill: url(#linear-gradient-17); fill-rule: evenodd;"/>
+                      <path d="m252.1,359.16s.05.36.14.98c.08.62.2,1.5.33,2.55.06.52.13,1.09.19,1.68,3.01,6.95-.99,13.95-4.99,18.95,4-5,9-11,6.79-18.31-.08-.67-.12-1.34-.17-1.98-.05-.64-.1-1.26-.15-1.83s-.1-1.09-.14-1.53c-.11-.87-.32-1.4-.32-1.4,0,0-.35.7-1.66.9Z" style="fill: url(#linear-gradient-18); fill-rule: evenodd;"/>
+                      <path d="m251.13,354.63c-3.37.69-7.37-4.31-7.37.69,0,2,3,3,5.95,3.45.62.21,1.15.37,1.6.48.89.23,1.45.29,1.58.32,0,0,.01,0,.02,0,0,0,.01,0,.02,0,0,0,.01-.28-.01-.69.85-1.58-1.15-1.58-1.62-3.39l-.17-.88Z" style="fill: url(#linear-gradient-19); fill-rule: evenodd;"/>
+                      <path d="m251.13,354.63c-2.37.69-2.37,2.69,0,4.18.45.44.93.63.93.63,0,0,4.39.94,6.18.16.59-.26.47-.88-.23-1.58-1.24-1.7-3.24-1.7-5.59-2.86-.52-.24-.95-.43-1.29-.53Z" style="fill: url(#linear-gradient-20); fill-rule: evenodd;"/>
+                      <path d="m244.28,355.41c3.48.9,5.48,2.9,8.48,2.9-3,1-5-1-6.84-1.77-.6-.33-1.16-.7-1.65-1.14Z" style="fill: #187aff; fill-rule: evenodd; mix-blend-mode: soft-light;"/>
+                      <path d="m249.72,356.21c-2.95-9.89-12.95-15.89-23.95-14.89,4,4,9,6,12.24,10.23.33.21.79.46,1.33.74.54.28,1.17.59,1.83.91,3.61,1.12,5.61,5.12,9.49,4.47,0,0-.87-.65-.93-1.47Z" style="fill: url(#linear-gradient-21); fill-rule: evenodd;"/>
+                      <path d="m249.72,356.21c-8.95-3.89-15.95-8.89-23.95-14.89,4,4,9,6,12.24,10.23.33.21.79.46,1.33.74.54.28,1.17.59,1.83.91,3.61,1.12,5.61,5.12,9.49,4.47,0,0-.87-.65-.93-1.47Z" style="fill: url(#linear-gradient-22); fill-rule: evenodd;"/>
+                      <path d="m252.93,359.59s-.52-.58-.87-1.42c-.29-.85-.29-2.85.71-2.85,4-1,0,2,1.21,2.96.11.45.25.98.63,1.55l-1.68-.23Z" style="fill: #2c00a2; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                      <path d="m233.41,346.88c.36-1.57,3.36-2.57,1.36-3.57-3-1-5-4-9-2,2,2,5,3,6.63,4.88.34.23.68.46,1.01.68Z" style="fill: #2c00a2; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                      <path d="m246.42,375.92s.31.17.78.41c.47.25,1.09.58,1.7.91.87,1.07,1.87,1.07,2.87,1.07-2,1-2,5-4,5-5,0,1-4-1.22-6.42-.08-.58-.13-.97-.13-.97Z" style="fill: #2c00a2; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                      <path d="m265.23,341.97l.13.35,5.71,1.57,3.54-5.2s-.09-1.48-1.46-1.31c0,0-3.9,1.81-7.93,4.58Z" style="fill: #2c00a2; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    </g>
+                    <g>
+                      <path d="m327.49,337.17c1.27,6.15.27,13.15.32,19.03.01.67.02,1.05.02,1.05,0,.02,0,.05,0,.07,0,0,.01.86-.08,2.17,0,2.84,0,6.84.29,9.4.02,1.28.04,2.14.04,2.14,0,0,.03,1.09.47,2.07,2.21,3.23,1.21,5.23-.06,7.99-.2,1.21-.19,2.07-.19,2.07,0,0,.06,3.29.08,4.93-.15.54-.19.9-.19.9-1.43,3.34-1.43,8.34,2.57,9.34-2-4-1-7,.26-10.82,0-.67.02-1.35.02-1.85,0-.51.01-.84.01-.84,0,0,.02-1.41.03-2.82.67-2.66,2.67-5.66.36-9.32-.1-.26-.16-.61-.23-1.01.01-.84.02-1.93.04-3.22,0-.64.02-1.33-.08-2.05-.43-2.07-.43-5.07-.05-7.57.13-.49.19-.98.23-1.46s.04-.97.05-1.46c-.65-6.58,1.35-12.58.24-19.73,0-.48.01-.95.02-1.42.1-8.42.18-14.86.18-14.86h-4.68s.13,7.56.28,15.88c0,.46.02.93.04,1.4Z" style="fill: url(#linear-gradient-23); fill-rule: evenodd;"/>
+                      <path d="m328.14,370.17c.04.45.1.9.19,1.34.08.44.19.87.34,1.29,1.1,2.52,1.1,5.52-.39,8.91.02.91.03,1.43.03,1.43l1.35,3.53c.23.59.45,1.18.55,1.69-.43-.05.57,10.95.71.11.12-.52.13-1.15.13-1.85.01-1.04.03-2.24.04-3.47,0-.41,0-.82.01-1.24.66-1.6,1.66-3.6,1.62-6.98-.52-.92-.89-1.48-.89-1.48-.07-1.15-1.07-1.15-1.54-2.37-.13-.43-.27-.91-.42-1.45-.14-.54-.29-1.13-.44-1.79.23-1.78-1.16-3.29-1.62-5.02.01,1.93.08,4.02.24,5.96.02.46.04.92.08,1.37Z" style="fill: #21008c; mix-blend-mode: multiply; opacity: .61;"/>
+                      <path d="m327.99,358.88c-.05-.53-.11-1.08-.15-1.64,0,0,0,.53.03,1.43-.02.65-.04,1.38-.05,2.17.04-.12.07-.25.12-.37.03-.52.03-1.05.06-1.59Z" style="fill: #21008c; mix-blend-mode: multiply; opacity: .61;"/>
+                      <path d="m336.02,395.84c5.74-1.53,11.74.47,18.04-.7.64-.11,1.2-.23,1.67-.36,4.72-1.32,19.22-9.6,19.22-9.6,0,0,.95-1.84-.69-2.19-.16-.03-.47-.04-.9-.01-3.94.23-18.09,2.8-21.84,4.08-1.46.5-3.98,1.65-6.64,2.94-.38.18-.76.37-1.15.56-2.98,1.76-7.98,2.76-10.98,4.76,0,0,1,0,1.27-.3.53.1,1.26.33,1.99.83Z" style="fill: url(#linear-gradient-24); fill-rule: evenodd;"/>
+                      <path d="m336.02,395.84c2.74-2.53,6.74-1.53,10.11-4.48.36-.19.72-.38,1.09-.57,1.84-.95,3.79-1.94,5.72-2.89,7.7-3.77,21.32-4.92,21.32-4.92h-.9c-3.94.22-18.09,2.79-21.84,4.06-1.46.5-3.98,1.65-6.64,2.94-.38.18-.76.37-1.15.56-2.98,1.76-7.98,2.76-10.98,4.76,0,0,1,0,1.27-.3.53.1,1.26.33,1.99.83Z" style="fill: url(#linear-gradient-25); fill-rule: evenodd;"/>
+                      <path d="m318.18,373.57c.19.67.39,1.35.6,2.03.21.68.43,1.36.65,2.03.22.67.43,1.32.65,1.93.22.62.44,1.2.67,1.73,1.02,1.02,1.02,2.02,1.13,2.53.17.32.43.7.73,1.13.31.43.67.91,1.06,1.43.4.52.83,1.07,1.28,1.63,1.82,3.29,2.82,6.29,6.78,7.88-.03-.41.08-.92.59-1.38.45-2.21.45-4.21,1.18-6.57-.03-.39-.07-.79-.11-1.18-.16-1.58-.39-3.13-.71-4.39-.16-.63-.28-1.2-.33-1.69-.57-4.37-3.57-6.37-7.08-8.61-.29-.32-.58-.64-.86-.95-.28-.31-.56-.61-.84-.91-2.79-.9-3.79-7.9-7.79-3.9,0,1,1,4,1.88,5.31.16.62.34,1.28.53,1.94Z" style="fill: url(#linear-gradient-26); fill-rule: evenodd;"/>
+                      <path d="m317.65,371.63c.16.62.34,1.28.53,1.94.19.67.39,1.35.6,2.03.21.68.43,1.36.65,2.03.22.67.43,1.32.65,1.93.22.62.44,1.2.67,1.73,1.02,1.02,1.02,2.02,1.13,2.53.17.32.43.7.73,1.13.31.43.67.91,1.06,1.43.4.52.83,1.07,1.28,1.63,1.82,3.29,2.82,6.29,6.78,7.88-.03-.41.08-.92.59-1.38-3.55-.21-2.55-5.21-4.85-6.56-.21-.27-.46-.55-.71-.83-1.24-1.4-2.52-2.89-3.75-4.36-.49-.59-.94-1.22-1.36-1.88-.21-.33-.41-.67-.61-1.01-.27-1.57-1.27-3.57-1.96-4.27-.14-.36-.26-.71-.38-1.07-.24-.71-.46-1.4-.65-2.06-.19-.66-.36-1.3-.54-1.9-.33-.03-.55-.12-.71-.24.08.46.3.9.85,1.29Z" style="fill: url(#linear-gradient-27); fill-rule: evenodd;"/>
+                      <path d="m318.88,375.95c2.88-.63,3.88-2.63,6.67-3.54,0,0-.16-.17-.44-.47-.27-.29-.66-.7-1.09-1.17-3.26-1.45-3.26-7.45-8.26-4.45,2,1,0,4,1.87,5.13.08.35.16.7.25,1.07.18.73.39,1.49.62,2.27.12.39.24.78.37,1.17Z" style="fill: #2c00a2; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                      <path d="m374.96,385.18s1.06-1.78-.69-2.19c0,0-6,.38-12.91,1.82l-.11.47,5.48,4.41,8.24-4.51Z" style="fill: #2c00a2; mix-blend-mode: multiply; opacity: .61;"/>
+                    </g>
+                  </g>
+                  <g style="mix-blend-mode: multiply;">
+                    <path d="m273.59,337.4c-.13-.02-.27-.03-.43,0-.12.02-.33.1-.62.23-.78.36-2.1,1.11-3.61,2.02-1.14.66-2.41,1.45-3.7,2.33h0c-1.23.8-2.41,1.61-3.4,2.32-.33.24-.63.46-.9.68-4.16,3.35-5.16,9.35-12.16,8.35,3-3,4-6,1.48-10.06-.03-.44-.04-.86-.04-1.26.02-1.19.04-2.18.05-2.79,0-.4,0-.63,0-.63.51-3.26-1.49-7.26.15-10.29.03-.48.04-.97.05-1.46.02-.98.03-1.98.05-3,0-.51.02-1.01.07-1.51-.81-3.01.19-6.01.08-8.72,0-.44.02-.87.04-1.28.06-3.7.11-6.27.11-6.27h-3.3s.04,2.82.08,6.34c0,.39.02.79.01,1.2-.83,2.72.17,6.72.12,9.37,0,.63.02,1.18.02,1.65.01.93.02,1.49.02,1.49v.06s0-.04,0-.06c0,0,0,.52.02,1.42-.01,3.79-1.01,7.79.01,11.45.07.44.11.88.14,1.33.02.45.03.9.03,1.35.8,3.65,3.8,7.65-.2,10.65-2-8-14-11-22-11,3,4,9,6,12.24,10.23.24.15.56.33.92.53.36.19.78.41,1.23.63.45.22.94.46,1.42.71,1.19,3.9,5.19,3.9,8.59,5.51.72.23,1.31.38,1.75.48-.45.61-1.72,2.36-2.96,4.28-.31.48-.61.97-.9,1.45-.29,2.19-2.29,5.19-1.7,7.13-.1.65-.11,1.37-.06,2.12.02.37.05.75.09,1.13.03.38.07.75.11,1.12,2.27,1.7-2.73,6.7.27,5.7,5-1,9-8,8.26-15.15-.18-.69-.31-1.38-.5-2.11-.12-1.93-.3-3.95-.43-5.29.16.02.33.04.5.05h.01s0,0,0,0c1.29.13,2.77.15,3.63-.23.58-.25.47-.85-.18-1.54-.3-1.74-4.3-.74-3.3-2.74,5-4,13-4,15.39-10.15.31-.43.62-.85.92-1.28h0s.03-.04.03-.04c1.91-2.69,3.51-5.16,3.51-5.16,0,0-.07-1.15-1.03-1.3Z" style="fill: url(#linear-gradient-28); fill-rule: evenodd;"/>
+                    <path d="m317.47,371.01c.15.54.3,1.1.46,1.68.13.52.28,1.06.43,1.61.16.55.33,1.1.52,1.65.88,1.37.88,2.37,1.05,3.2.18.51.36,1,.53,1.46.18.46.35.89.53,1.29.34.8.63,1.47.88,1.93.16.29.38.63.64,1.01.27.38.58.81.93,1.26.35.45.73.94,1.13,1.44.2,1.77,3.2,2.77,2.2,4.77-1,1-3,0-5,0,0,6,6,6,9,8-4.18,1.67-7.67,4.74-11.55,7.36h10.91c2.48-4.82,7.14-7.28,12.64-6.36,0-4-4-3-5-6,6,0,11,0,16.69-.25.48-.09.91-.19,1.28-.29,2.29-.64,6.86-2.91,10.98-5.08h0s.01,0,.01,0c4.38-2.31,8.22-4.51,8.22-4.51,0,0,.82-1.39-.19-1.99-.13-.08-.3-.15-.5-.19-.16-.03-.47-.04-.9-.01-1.2.07-3.35.36-5.86.76-1.85.27-3.95.62-6.15,1.08h0c-4.14.78-8.09,1.65-9.83,2.24-1.32.45-3.51,1.44-5.88,2.57-.59.28-1.2.58-1.81.88-4.07.81-8.07,4.81-12.07,2.81,2-1,1-3,1.71-4.21.04-.61.01-1.24-.05-1.87-.12-1.26-.28-2.53-.49-3.66-.11-.56-.23-1.09-.36-1.57-.81-2.69,1.19-6.69-1.11-9.35-.1-.26-.16-.61-.23-1.01.01-.84.02-1.93.04-3.22,0-.64.02-1.33-.08-2.05-.43-3.07-.43-5.07-.05-7.57.13-.49.19-.98.23-1.46s.04-.97.05-1.46c-.65-6.58,1.35-12.58.24-19.73,0-.48.01-.95.02-1.42.1-8.42.18-14.86.18-14.86h-4.68s.13,7.56.28,15.88c0,.46.02.93.04,1.4,1.27,6.15.27,13.15.32,19.03.01.67.02,1.05.02,1.05,0,.01,0,.02,0,.03,0,0,.01.72-.02,1.89-.06,3.15-.06,7.15.23,9.84,0,.43.02.86.04,1.27s.05.8.09,1.17c.09.74.23,1.39.49,1.91.1.96,1.1.96,1.1,1.96-1-2-3-2-4.22-2.92-.25-.28-.5-.55-.75-.83-.25-.27-.49-.54-.73-.8-3.3-1.45-4.3-6.45-7.3-5.45-3,2,1,4,.71,5.69Z" style="fill: url(#linear-gradient-29); fill-rule: evenodd;"/>
+                  </g>
+                </g>
+                <g>
+                  <g>
+                    <path d="m250.81,306.06h-3.3l.26-26.51.33-33.93h0s.02-1.7.02-1.7v-1.09s.02-1.13.02-1.13l.02-2.12v-1.06h1.79v.05l.03,2.15.02,1.47v1.37s.26,19.5.26,19.5l.55,43Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133); fill-rule: evenodd;"/>
+                    <path d="m250.26,263.06s-1.82,5.2-2.5,16.48l.33-33.93,1.89-3.56.27,21.01Z" style="fill: #604376; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m253.98,240.05s9.36,4.86,11.96,7.65c2.6,2.8,8.68,15.19,8.68,15.19,0,0-.19,1.97-1.46,1.73-.12-.02-.33-.13-.62-.3-2.57-1.56-11-8.71-12.96-11.14-2.18-2.7-7.82-13.17-7.82-13.17,0,0,.96.53,2.21.03Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-2); fill-rule: evenodd;"/>
+                    <path d="m253.98,240.05s3.43,6.83,6.95,12.85,12.23,11.72,12.23,11.72l-.62-.3c-2.57-1.56-11-8.71-12.96-11.14-2.18-2.7-7.82-13.17-7.82-13.17,0,0,.96.53,2.21.03Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_106); fill-rule: evenodd;"/>
+                    <path d="m252.1,235.85s-5.2-9.17-5.85-12.93c-.65-3.77,1-17.47,1-17.47,0,0,1.24-1.55,2.17-.65.09.09.21.29.35.59,1.3,2.71,4.47,13.3,4.79,16.41.35,3.45-.62,15.3-.62,15.3,0,0-.52-.97-1.84-1.23Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_139); fill-rule: evenodd;"/>
+                    <path d="m252.1,235.85s.84-7.6,1.18-14.56c.33-6.96-3.87-16.49-3.87-16.49l.35.59c1.3,2.71,4.47,13.3,4.79,16.41.35,3.45-.62,15.3-.62,15.3,0,0-.52-.97-1.84-1.23Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-3); fill-rule: evenodd;"/>
+                    <path d="m253.22,242.43s-1.28.69-3.5,1.19c-3.07.69-5.81.6-5.81.6-.98-1.38-.7-2.68-.7-2.68,0,0,1.32-2.09,4.47-4.06,2.99-1.87,4.94-2.09,5.2-2.19,0,0,.01,0,.02,0,0,0,.01,0,.02,0l.24,5.93.05,1.22Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_140); fill-rule: evenodd;"/>
+                    <path d="m253.22,242.43s-1.94-.51-2.52-3.23c-.58-2.73,1.36-3.73,1.36-3.73,0,0,4.39-1.24,6.18-.21,1.78,1.03-2.91,6.35-5.02,7.16Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_106-2); fill-rule: evenodd;"/>
+                    <path d="m244.68,240.91s6.24-2.57,8.09-4.26c0,0-5.11.83-8.09,4.26Z" style="fill: #bfe3e9; fill-rule: evenodd; mix-blend-mode: soft-light;"/>
+                    <path d="m251.06,240.15s-4.74,9.42-7.51,12.05c-2.77,2.64-15.09,8.87-15.09,8.87,0,0-1.98-.17-1.74-1.44.02-.12.12-.34.29-.62,1.53-2.59,8.58-11.1,10.98-13.09,2.68-2.21,13.07-7.98,13.07-7.98,0,0-.52.97,0,2.21Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-4); fill-rule: evenodd;"/>
+                    <path d="m251.06,240.15s-6.79,3.52-12.77,7.1c-5.98,3.59-11.57,12.37-11.57,12.37l.29-.62c1.53-2.59,8.58-11.1,10.98-13.09,2.68-2.21,13.07-7.98,13.07-7.98,0,0-.52.97,0,2.21Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_106-3); fill-rule: evenodd;"/>
+                    <path d="m252.93,235.28s-2.05,3.09,1.44,6.47l1.61-1.43s-2.89-2.34-1.37-5.35l-1.68.31Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m232.4,251.96l.54-.23,2.38,5.7-6.85,3.64s-1.92-.01-1.74-1.44c0,0,2.49-4.01,5.68-7.66Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m246.42,213.69l4.97-3.51.23.28s-1.41-4.97-2.33-5.83c0,0-1.18-.44-2.04.81l-.82,8.24Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m265.23,258.57l.13-.46,5.71-2.08,3.54,6.87s-.09,1.96-1.46,1.73c0,0-3.9-2.4-7.93-6.06Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                  </g>
+                  <g>
+                    <path d="m331.86,319.89h-4.68l.66-49.39s0-.06,0-.09l.24-18.12.08-5.79h0s.14-10.25.14-10.25l.1-7.73.06-4.27v-.62s.03-1.44.03-1.44l.06-4.56v-1.11s2.21.01,2.21.01h.14l.04,3.96v1.09s.02,1.57.02,1.57h0s0,1.62,0,1.62c0,0,0,.01,0,.01l.02,2.15.07,7.13.07,7.47.07,7.29h0s.65,71.07.65,71.07Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-5); fill-rule: evenodd;"/>
+                    <path d="m331.21,248.82s-2.42,6.84-3.36,21.68l.46-34.25,2.7-9.34.2,21.91Z" style="fill: #604376; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m337.15,218.97s13.87.15,18.59,1.89c4.72,1.75,19.22,12.69,19.22,12.69,0,0,.95,2.43-.69,2.89-.16.04-.47.05-.9.02-3.94-.31-18.09-3.7-21.84-5.39-4.16-1.88-17-10.82-17-10.82,0,0,1.44.05,2.62-1.27Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-6); fill-rule: evenodd;"/>
+                    <path d="m337.15,218.97s8.09,5.99,15.79,10.97c7.7,4.98,21.32,6.5,21.32,6.5l-.9.02c-3.94-.31-18.09-3.7-21.84-5.39-4.16-1.88-17-10.82-17-10.82,0,0,1.44.05,2.62-1.27Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_106-4); fill-rule: evenodd;"/>
+                    <path d="m332.45,215.15s-11.55-7.68-14.55-11.71c-3.01-4.04-9.2-21.11-9.2-21.11,0,0,.53-2.56,2.16-2.05.16.05.42.22.76.48,3.14,2.41,13.15,12.96,15.37,16.42,2.46,3.85,8.35,18.34,8.35,18.34,0,0-1.18-.83-2.89-.36Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_139-2); fill-rule: evenodd;"/>
+                    <path d="m332.45,215.15s-3.52-9.43-7.26-17.8c-3.74-8.38-14.33-17.07-14.33-17.07l.76.48c3.14,2.41,13.15,12.96,15.37,16.42,2.46,3.85,8.35,18.34,8.35,18.34,0,0-1.18-.83-2.89-.36Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-7); fill-rule: evenodd;"/>
+                    <path d="m335.2,221.69s-1.68.9-4.61,1.55c-4.04.89-7.64.76-7.64.76-1.29-1.83-.91-3.54-.91-3.54,0,0,1.75-2.74,5.91-5.32,3.95-2.45,6.5-2.73,6.86-2.85.01,0,.02,0,.03-.01.01,0,.02,0,.03-.01l.29,7.81.06,1.61Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_140-2); fill-rule: evenodd;"/>
+                    <path d="m335.2,221.69s-2.55-.68-3.3-4.26c-.75-3.59,1.81-4.9,1.81-4.9,0,0,5.79-1.61,8.13-.24,2.34,1.37-3.86,8.34-6.64,9.4Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_106-5); fill-rule: evenodd;"/>
+                    <path d="m323.98,219.65s8.22-3.35,10.67-5.57c0,0-6.73,1.07-10.67,5.57Z" style="fill: #bfe3e9; fill-rule: evenodd; mix-blend-mode: soft-light;"/>
+                    <path d="m333.78,220.81s.02,13.87-1.66,18.61c-1.69,4.74-12.45,19.37-12.45,19.37,0,0-2.42.98-2.9-.66-.05-.16-.05-.47-.03-.9.26-3.95,3.48-18.13,5.13-21.9,1.83-4.18,10.62-17.13,10.62-17.13,0,0-.03,1.44,1.31,2.6Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-8); fill-rule: evenodd;"/>
+                    <path d="m333.78,220.81s-5.89,8.16-10.78,15.92c-4.89,7.76-6.24,21.4-6.24,21.4l-.03-.9c.26-3.95,3.48-18.13,5.13-21.9,1.83-4.18,10.62-17.13,10.62-17.13,0,0-.03,1.44,1.31,2.6Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_106-6); fill-rule: evenodd;"/>
+                    <path d="m334.86,212.27s-2.72,4.05,1.86,8.52l2.12-1.88s-3.8-3.09-1.78-7.04l-2.21.4Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m318.88,245.76l.5-.59,6.17,5.28-5.89,8.34s-2.26,1.12-2.9-.66c0,0,.54-6.19,2.12-12.37Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m312.62,192.49l3.75-7.07.43.19s-4.61-5-6.2-5.46c0,0-1.65.19-1.91,2.17l3.93,10.17Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m361.36,234.03l-.11-.62,5.48-5.83,8.24,5.97s1.06,2.36-.69,2.89c0,0-6-.5-12.91-2.41Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                  </g>
+                  <g style="mix-blend-mode: screen;">
+                    <path d="m643.15,75.61c-47.34-3.22-96.71-4.92-147.48-4.92-351.89,0-637.16,81.83-637.16,182.78,0,64.82,117.63,121.76,294.99,154.21h489.66V75.61Z" style="fill: url(#radial-gradient); fill-rule: evenodd;"/>
+                  </g>
+                </g>
+              </g>
+              <g>
+                <path d="m142.78,347.53s-7.29.63-19.98,1.73c-.49.04-.98.09-1.47.14-6.7-.08-14.7,1.92-21.37,1.84-.68.06-1.36.12-2.05.18-.69.06-1.39.12-2.09.18-.7.06-1.41.12-2.13.18-8.06,2.54-16.06-1.46-24.5,2.12-.41.04-.83.07-1.25.11-2.94.25-5.95.51-9.01.78-.44.04-.88.08-1.31.11-15.98,2.42-31.98.42-48.35,4.18-.49.05-1,.09-1.5.13-4.03.35-8.11.7-12.23,1.06-.51.04-1.03.09-1.54.14-6.36,1.91-12.36-.09-17.21,1.49-.53.04-1.06.09-1.58.13-7.38.64-14.84,1.28-22.35,1.93-.54.05-1.07.09-1.61.13-10.61.22-21.61,2.22-32.31,2.81-.54.04-1.08.09-1.62.14-7.01.61-14,1.21-20.95,1.81-.53.05-1.07.09-1.6.14-12.13-.67-24.13,4.33-36.26,3.14-.51.04-1.03.09-1.54.13-7.7.67-15.27,1.32-22.65,1.96-.49.04-.98.09-1.48.13-12.2-.03-24.2,3.97-36.41,3.16-.44.03-.88.07-1.32.11-31.43,2.72-56.79,4.91-71.09,6.15v12.65c15.13-1.72,42.63-4.85,76.71-8.72.44-.05.88-.1,1.33-.15,16.58-1.23,34.58-4.23,51.56-5.86.51-.06,1.02-.11,1.53-.17,2.03-.23,4.07-.46,6.11-.69.51-.06,1.02-.12,1.54-.17,14.84-.32,28.84-4.32,42.51-4.83.53-.06,1.07-.12,1.6-.18,6.41-.73,12.85-1.46,19.29-2.19.54-.06,1.07-.12,1.61-.18,23.82-2.93,48.82-4.93,73.14-8.32.51-.06,1.03-.12,1.54-.18,5.13-.58,10.2-1.16,15.21-1.73.5-.06,1-.11,1.49-.17,13.44-3.54,27.44-1.54,41.36-4.7.45-.05.89-.11,1.34-.16,3.57-.41,7.06-.8,10.49-1.19.43-.05.85-.1,1.27-.15,16.98-2.35,32.98-3.35,49.94-5.67.57-.07,1.14-.14,1.7-.2,18.05-2.05,28.73-3.27,28.73-3.27h-11.24Z" style="fill: url(#linear-gradient-30); fill-rule: evenodd; mix-blend-mode: multiply; opacity: .4;"/>
+                <g>
+                  <path d="m-17.41,329.58s31.36,3.66,34.65,4.82c0,0-84.55-1.5-85.92-.82-1.37.68,30.31,2.53,30.31,2.53l-42.7-1.52-30.33-2.03,38.74-1.73,55.26-1.25Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_351-2); mix-blend-mode: screen;"/>
+                  <path d="m11.78,349.84s-23.72-1.02-40.65-2.71c-17.2-1.71-2.73-3.97-2.73-3.97,0,0-20.67-1.14-22.62-1.91-1.95-.77,42.22-3.12,51.48-4.63,9.26-1.51-12.99-4.43-12.99-4.43l-57.21.36s-9.5.25-10.01.93c-.51.68,21.61,3.05,22.54,3.47.93.42-13.83,1.84-14.74,3.72-.92,1.88,35.29,2.71,36.6,3.4s-16.44,1.27-17.37,1.61c-.93.34,35.84,2.29,47.53,3.48,11.69,1.19-10.68,1.23-11.18,2.12-.51.89,40.42.78,40.42-.21,0-.89-9.07-1.23-9.07-1.23Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_254-3); mix-blend-mode: screen;"/>
+                </g>
+                <g>
+                  <path d="m278.72,345.78l41.59,2.15s-156.74-.81-163.8,0l73.19,3.91s-127.55,3.95-164.5,1.22c0,0,80.78-.97,86.22-2.38,5.44-1.41-67.81-2.75-67.81-2.75l23.3-2.15,148.18-.65,23.62.65Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_351-3); mix-blend-mode: screen;"/>
+                  <path d="m299.13,357.9s-64.86-3.24-110.09-.58c0,0,64.56,1.41,110.09.58Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_368); mix-blend-mode: screen;"/>
+                </g>
+                <g style="mix-blend-mode: screen;">
+                  <path d="m143.37,380.56c.03.5.04,1,.05,1.51s.02,1.01.03,1.52c0,.51.02,1.02.07,1.52,1.1,6.22-1.9,13.22.31,19.02,0,.53.02,1.07.03,1.6.01.66.02,1.31.04,1.97h9.44c.01-1.26.03-2.53.04-3.79-.33-.53-.53-1.07-.84-1.6-1.91-1.98.09-3.98.42-6.32.25-.52.38-1.04.46-1.56.07-.52.08-1.04.09-1.55,0-.52.05-1.04.22-1.6,1.91-2.95.91-5.95-.06-8.92-.03-.47-.02-.95-.02-1.43s.01-.95.02-1.42c-1.03-3.18-2.03-6.18.05-9.37.06-.43.07-.84.08-1.25.02-1.65.04-3.22.05-4.72,0-.37,0-.74.02-1.11-.23-3.73-.23-6.73.11-10.67,0-.44,0-.86.01-1.24.03-2.32.04-3.61.04-3.61h-11.24s.03,1.54.08,4.24c0,.45.02.93.03,1.45.74,4.1.74,8.1.24,12.19,0,.42,0,.84.01,1.26.02.84.03,1.7.05,2.58,0,.44.02.88,0,1.33-1.57,2.73-1.57,6.73.18,9.97Z" style="fill: url(#linear-gradient-31); fill-rule: evenodd;"/>
+                  <g style="mix-blend-mode: multiply;">
+                    <path d="m143.37,380.56c.03.5.04,1,.05,1.51,0,.5.02,1.01.03,1.52,0,.51.02,1.02.07,1.52,1.1,6.22-1.9,13.22.31,19.02,0,.53.02,1.07.03,1.6.01.66.02,1.31.04,1.97h9.44c.01-1.26.03-2.53.04-3.79-.33-.53-.53-1.07-.84-1.6-1.91-1.98.09-3.98.42-6.32.25-.52.38-1.04.46-1.56.07-.52.08-1.04.09-1.55,0-.52.05-1.04.22-1.6,1.91-2.95.91-5.95-.06-8.92-.03-.47-.02-.95-.02-1.43s.01-.95.02-1.42c-1.03-3.18-2.03-6.18.05-9.37.06-.43.07-.84.08-1.25.02-1.65.04-3.22.05-4.72,0-.37,0-.74.02-1.11-.23-3.73-.23-6.73.11-10.67,0-.44,0-.86.01-1.24.03-2.32.04-3.61.04-3.61h-11.24s.03,1.54.08,4.24c0,.45.02.93.03,1.45.74,4.1.74,8.1.24,12.19,0,.42,0,.84.01,1.26.02.84.03,1.7.05,2.58,0,.44.02.88,0,1.33-1.57,2.73-1.57,6.73.18,9.97Z" style="fill: url(#linear-gradient-32); fill-rule: evenodd;"/>
+                  </g>
+                </g>
+                <g>
+                  <g>
+                    <path d="m-45.95,187.59s19.3,3.8,25.41,7.45c6.13,3.66,23.49,22.66,23.49,22.66,0,0,.69,3.63-1.71,3.85-.23.02-.67-.06-1.26-.21-5.41-1.45-24.25-9.84-29.03-13.17-5.31-3.7-20.88-19.49-20.88-19.49,0,0,2,.45,3.98-1.1Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-9); fill-rule: evenodd;"/>
+                    <path d="m-45.95,187.59s9.72,10.44,19.16,19.38c9.44,8.94,28.03,14.59,28.03,14.59l-1.26-.21c-5.41-1.45-24.25-9.84-29.03-13.17-5.31-3.7-20.88-19.49-20.88-19.49,0,0,2,.45,3.98-1.1Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_106-7); fill-rule: evenodd;"/>
+                    <path d="m-16.12,214.85v-.89s9.15-6.71,9.15-6.71l9.93,10.45s.86,3.56-1.71,3.85c0,0-8.24-2.26-17.37-6.71Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                  </g>
+                  <g>
+                    <polygon points="154.02 347.53 142.78 347.53 144.75 206.35 145.07 183.14 145.55 149.18 145.55 149.12 145.6 145.25 145.68 139.85 145.78 132.94 145.82 129.97 151.73 129.98 152.13 129.98 152.16 133.17 152.24 142.61 152.25 143.6 152.28 147.84 152.28 147.87 152.37 157.98 152.38 159.41 152.54 177.24 154.02 347.53" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-10); fill-rule: evenodd;"/>
+                    <path d="m152.88,217.03s-6.52,18.42-9.1,58.43l1.29-92.31,7.29-25.16.51,59.05Z" style="fill: #604376; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m166.83,134.79s36.69,7.23,48.32,14.17c11.65,6.96,44.66,43.09,44.66,43.09,0,0,1.31,6.91-3.26,7.33-.44.04-1.26-.11-2.39-.4-10.3-2.75-46.1-18.72-55.2-25.05-10.1-7.04-39.7-37.06-39.7-37.06,0,0,3.8.85,7.57-2.08Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-11); fill-rule: evenodd;"/>
+                    <path d="m166.83,134.79s18.48,19.85,36.43,36.85c17.95,17,53.29,27.74,53.29,27.74l-2.39-.4c-10.3-2.75-46.1-18.72-55.2-25.05-10.1-7.04-39.7-37.06-39.7-37.06,0,0,3.8.85,7.57-2.08Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_106-8); fill-rule: evenodd;"/>
+                    <path d="m156.25,122.34s-26.82-26.06-32.79-38.22c-5.97-12.18-13.96-60.47-13.96-60.47,0,0,2.66-6.51,6.72-4.37.39.21,1,.78,1.79,1.64,7.13,7.92,28.45,40.82,32.63,51.08,4.63,11.4,13.09,52.71,13.09,52.71,0,0-2.72-2.78-7.48-2.38Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_139-3); fill-rule: evenodd;"/>
+                    <path d="m156.25,122.34s-4.68-26.71-10.47-50.75c-5.79-24.04-29.56-52.3-29.56-52.3l1.79,1.64c7.13,7.92,28.45,40.82,32.63,51.08,4.63,11.4,13.09,52.71,13.09,52.71,0,0-2.72-2.78-7.48-2.38Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-12); fill-rule: evenodd;"/>
+                    <path d="m163.69,143.9s-4.54,2.44-12.43,4.17c-10.89,2.39-20.6,2.04-20.6,2.04-3.46-4.92-2.45-9.53-2.45-9.53,0,0,4.73-7.39,15.93-14.32,10.64-6.59,17.53-7.35,18.49-7.68.03-.01.04-.01.07-.03.03-.01.04-.01.07-.03l.76,21.05.15,4.33Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_140-3); fill-rule: evenodd;"/>
+                    <path d="m163.69,143.9s-6.87-1.82-8.9-11.5c-2.03-9.67,4.89-13.2,4.89-13.2,0,0,15.6-4.33,21.92-.64,6.31,3.69-10.42,22.47-17.91,25.34Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_106-9); fill-rule: evenodd;"/>
+                    <path d="m133.44,138.4s22.16-9.03,28.76-14.99c0,0-18.14,2.89-28.76,14.99Z" style="fill: #bfe3e9; fill-rule: evenodd; mix-blend-mode: soft-light;"/>
+                    <path d="m157,138s-6.78,36.77-13.58,48.49c-6.81,11.73-42.55,45.18-42.55,45.18,0,0-6.89,1.4-7.37-3.17-.04-.44.09-1.27.37-2.4,2.63-10.33,18.16-46.33,24.38-55.5,6.91-10.19,36.57-40.15,36.57-40.15,0,0-.8,3.81,2.18,7.54Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_133-13); fill-rule: evenodd;"/>
+                    <path d="m157,138s-19.62,18.72-36.4,36.88c-16.78,18.16-27.09,53.62-27.09,53.62l.37-2.4c2.63-10.33,18.16-46.33,24.38-55.5,6.91-10.19,36.57-40.15,36.57-40.15,0,0-.8,3.81,2.18,7.54Z" style="fill: url(#_鍊踑臇_蜸馯鳺艜_106-10); fill-rule: evenodd;"/>
+                    <path d="m162.77,118.52s-7.33,10.92,5,22.97l5.72-5.06s-10.23-8.33-4.78-18.99l-5.95,1.07Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m105.22,196.77l1.61-1.32,13.75,17.03-19.72,19.2s-6.54,1.86-7.37-3.17c0,0,4.5-16.13,11.72-31.73Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m114.9,52.53l13.42-16.88,1.04.72s-9.74-15.51-13.74-17.51c0,0-4.46-.32-6.12,4.8l5.4,28.87Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                    <path d="m223.54,186.63v-1.69s17.39-12.75,17.39-12.75l18.88,19.87s1.64,6.77-3.26,7.33c0,0-15.66-4.29-33.02-12.75Z" style="fill: #755c88; fill-rule: evenodd; mix-blend-mode: multiply; opacity: .61;"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
